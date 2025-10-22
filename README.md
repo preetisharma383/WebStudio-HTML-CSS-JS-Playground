@@ -75,16 +75,7 @@ By building or exploring this editor, you’ll understand how to:
 
 ---
 
-## 📼 Chapters & Timestamps (Video Tutorial)
 
-- `00:00` – Intro  
-- `00:49` – Project walkthrough & showcase  
-- `16:57` – HTML structure: scaffolding the page  
-- `1:03:00` – CSS styling & layout (panels, tabs, responsive)  
-- `2:19:15` – JavaScript functionality: tabs, live preview, save/load  
-- `4:05:30` – Importing Ace Editor & final touches  
-
----
 
 ## 📂 Folder Contents
 
@@ -125,4 +116,5 @@ This project is open-source and available under the MIT License.
 🙋 Support / Feedback
 Found a bug or want to suggest a feature?
 Open an issue or submit a PR!
+
 
